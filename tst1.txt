@@ -3,3 +3,6 @@ hi pawan
 this is line added by remote repo 
 can you see the line on local repo .
 if you can see type below yes or no answer 
+
+yes , i able to see all cantain in a file you can procced the next step 
+good work bro.
